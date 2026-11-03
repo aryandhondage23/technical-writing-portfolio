@@ -1,7 +1,5 @@
 # technical-writing-portfolio
 
-# Hi, I'm Aryan Dhondage
-
 I am a final-year B.Tech student in Computer Science
 Engineering, specializing in Artificial Intelligence
 and Analytics at MIT School of Computing.
